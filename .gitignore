@@ -1,0 +1,11 @@
+# Build artifacts — regenerable via `bash build.sh`; published as GitHub Release assets
+dist/
+
+# macOS
+.DS_Store
+
+# Editor cruft
+*.swp
+*~
+.vscode/
+.idea/
